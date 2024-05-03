@@ -382,5 +382,75 @@
     "theme": {
       "__resolveType": "Neutral"
     }
+  },
+  "collections/blog/posts/bfbad1c03bee": {
+    "name": "collections/blog/posts/bfbad1c03bee",
+    "__resolveType": "blog/loaders/Blogpost.ts",
+    "post": {
+      "authors": [
+        {}
+      ],
+      "categories": [],
+      "date": "2024-05-03",
+      "title": "The Power Of Good NUXT.js",
+      "excerpt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8833/7a8ddbed-7749-4fcd-a283-e236f5e1f779",
+      "slug": "the-power-of-good-nuxtjs",
+      "content": "What is Lorem Ipsum?\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard\r\ndummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen\r\nbook. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially\r\nunchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more\r\nrecently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  },
+  "collections/blog/authors/4e9ff4182ef8": {
+    "name": "collections/blog/authors/4e9ff4182ef8",
+    "__resolveType": "blog/loaders/Author.ts",
+    "author": {
+      "name": "Danilo",
+      "email": "danilo@mailinator.com",
+      "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8833/4f034c89-7dea-4ebf-9b05-7b0bbe1f0856",
+      "jobTitle": "WebDeveloper",
+      "company": "Alone"
+    }
+  },
+  "collections/blog/categories/de5fd9444221": {
+    "name": "collections/blog/categories/de5fd9444221",
+    "__resolveType": "blog/loaders/Category.ts",
+    "category": {
+      "name": "Technology",
+      "slug": "technology"
+    }
+  },
+  "collections/blog/categories/f3064bc47b68": {
+    "name": "collections/blog/categories/f3064bc47b68",
+    "__resolveType": "blog/loaders/Category.ts",
+    "category": {
+      "name": "IA",
+      "slug": "ia"
+    }
+  },
+  "collections/blog/categories/4887dd12927b": {
+    "name": "collections/blog/categories/4887dd12927b",
+    "__resolveType": "blog/loaders/Category.ts",
+    "category": {
+      "name": "Science",
+      "slug": "science"
+    }
+  },
+  "pages-Contact-581966": {
+    "name": "Contact",
+    "path": "/contact",
+    "sections": [
+      {
+        "__resolveType": "Header"
+      },
+      {
+        "__resolveType": "Preview /sections/Hero.tsx"
+      },
+      {
+        "__resolveType": "Preview /sections/Faq.tsx"
+      },
+      {
+        "__resolveType": "Preview /sections/Footer.tsx"
+      }
+    ],
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
